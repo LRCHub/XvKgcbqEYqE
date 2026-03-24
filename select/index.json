@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "pocket locket",
+  "base_artist": "Alaina Castillo",
+  "createdAt": "2026-03-24T06:51:16.138023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/01_pocket_locket_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "pocket locket (Official Video)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/02_pocket_locket_(Official_Video)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/03_pocket_locket_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alaina Castillo - Pocket Locket (Official Lyric Video)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/04_Alaina_Castillo_-_Pocket_Locket_(Official_Lyric_Video)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alaina Castillo - pocket locket (Official Video)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/05_Alaina_Castillo_-_pocket_locket_(Official_Video)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alaina Castillo - Pocket Locket",
+      "artist": "Cakes & Eclairs",
+      "has_synced": true,
+      "path": "select/06_Alaina_Castillo_-_Pocket_Locket_Cakes_&_Eclairs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "pocket locket (sped up)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/07_pocket_locket_(sped_up)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/08_pocket_locket_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alaina Castillo - pocket locket (Official Video)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/09_Alaina_Castillo_-_pocket_locket_(Official_Video)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "pocket locket (Official Video)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/10_pocket_locket_(Official_Video)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/11_pocket_locket_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/12_pocket_locket_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "pocket locket (sped up)",
+      "artist": "Alaina Castillo",
+      "has_synced": true,
+      "path": "select/13_pocket_locket_(sped_up)_Alaina_Castillo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pocket locket",
+      "artist": "Alaina Castillo",
+      "has_synced": false,
+      "path": "select/pl_01_pocket_locket_Alaina_Castillo.txt"
+    }
+  ]
+}
